@@ -12,25 +12,24 @@ My first project in React. A small blog webpage.
 <ul>
     <li>Download or clone the project to your local machine.</li>
     <li>Change to the folder my-react-website</li>
-    <li>To add node_modules run: <strong>npm install</strong></li>
+    <li>To add node_modules run: <code>npm install</code></li>
     <li>Install any other dependancies</li>
-    <li>To run the frontend use: <strong>npm start</strong></li>
+    <li>To run the frontend use: <code>npm start</code></li>
 </ul>
 
 # Run backend
 <ul>
     <li>Change to the folder my-react-website-backend</li>
-    <li>To add node_modules run: <strong>npm install</strong></li>
-    <li>To build and start the server run: <strong>npm start</strong></li>
+    <li>To add node_modules run: <code>npm install</code></li>
+    <li>To build and start the server run: <code>npm start</code></li>
 </ul>
 
-# Run MongoDb
+# Run MongoDB
 <ul>
     <li>Download and install MongoDB</li>
-    <li>Run the MongoDB client: <strong>mongo</strong></li>
+    <li>Run the MongoDB client: <code>mongo</code></li>
     <li>Add an empty array for the comments</li>
-    <li>Run MongoDB in a separate terminal: </li>
-    <code>mongod</code>
+    <li>Run MongoDB in a separate terminal: <code>mongod</code></li>
 </ul>
 
 # View the website

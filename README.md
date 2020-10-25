@@ -2,16 +2,16 @@
 My first project in React. A small blog webpage.
 <br />It is a MERN website, so you will need MongoDB for database.
 
-<img src="screenshots/home_screen.png" alt="ScreenShot" style="width:50%;">
+<div><img src="screenshots/home_screen.png" alt="ScreenShot" style="width:50%;"></div>
 
-<br />You can read articles and upvote them:<br />
-<img src="screenshots/article_screen.png" alt="ScreenShot" style="width:50%;">
+<br />You can read articles and upvote them:<br /><br />
+<div><img src="screenshots/article_screen.png" alt="ScreenShot" style="width:50%;"></div>
 
-<br />Add comments to article:<br />
-<img src="screenshots/comment_screen.png" alt="ScreenShot" style="width:50%;">
+<br />Add comments to article:<br /><br />
+<div><img src="screenshots/comment_screen.png" alt="ScreenShot" style="width:50%;"></div>
 
-<br />Add banners:<br />
-<img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%;">
+<br />Add banners:<br /><br />
+<div><img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%;"></div>
 
 # File structure
 <ul>
@@ -40,7 +40,7 @@ My first project in React. A small blog webpage.
     <li>Download and install MongoDB</li>
     <li>Run the MongoDB client: <code>mongo</code></li>
     <li>Add an empty array to be able to add votes and comments in articles</li>
-    <br /><img src="screenshots/mongo_screen.png" alt="ScreenShot" style="width:50%;">
+    <br /><br /><div><img src="screenshots/mongo_screen.png" alt="ScreenShot" style="width:50%;"></div>
     <li>Run MongoDB in a separate terminal: <code>mongod</code></li>
 </ul>
 

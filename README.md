@@ -2,7 +2,7 @@
 My first project in React. A small blog webpage.
 <br />It is a MERN website, so you will need MongoDB for database.
 
-<img src="https://github.com/krem13/React_website/blob/master/screenshots/home_screen.png" alt="ScreenShot" style="max-width:80%;">
+<img src="screenshots/home_screen.png" alt="ScreenShot" style="max-width:80%;">
 
 # File structure
 <ul>

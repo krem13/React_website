@@ -10,10 +10,10 @@ My first project in React. A small blog webpage.
 
 # Run frontend
 <ul>
-    <li>Download or clone the project to your local machine.</li>
+    <li>Download or clone the project to your local machine</li>
     <li>Change to the folder my-react-website</li>
     <li>To add node_modules run: <code>npm install</code></li>
-    <li>Install any other dependancies</li>
+    <li>Install any other dependancies: react-scripts, react-router-dom, axios, ...</li>
     <li>To run the frontend use: <code>npm start</code></li>
 </ul>
 
@@ -28,7 +28,7 @@ My first project in React. A small blog webpage.
 <ul>
     <li>Download and install MongoDB</li>
     <li>Run the MongoDB client: <code>mongo</code></li>
-    <li>Add an empty array for the comments</li>
+    <li>Add an empty array to be able to add votes and comments in articles</li>
     <li>Run MongoDB in a separate terminal: <code>mongod</code></li>
 </ul>
 

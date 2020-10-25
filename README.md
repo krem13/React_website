@@ -1,16 +1,16 @@
 # React_website
-My first project in React. A small blog webpage.
+My first project in React. A small blog webpage. It's work in progress.
 <br />It is a MERN website, so you will need MongoDB for database.
 
 <div><img src="screenshots/home_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
-<br />You can read articles and upvote them:<br /><br />
+# You can read articles and upvote them:
 <div><img src="screenshots/article_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
-<br />Add comments to article:<br /><br />
+# Add comments to article:
 <div><img src="screenshots/comment_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
-<br />Add banners:<br /><br />
+# Add banners:
 <div><img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 <div><img src="screenshots/banner.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 

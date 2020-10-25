@@ -2,16 +2,16 @@
 My first project in React. A small blog webpage.
 <br />It is a MERN website, so you will need MongoDB for database.
 
-<img src="screenshots/home_screen.png" alt="ScreenShot" style="max-width:70%;">
+<img src="screenshots/home_screen.png" alt="ScreenShot" style="max-width:50%;">
 
 You can read articles and upvote them:
-<img src="screenshots/article_screen.png" alt="ScreenShot" style="max-width:70%;">
+<img src="screenshots/article_screen.png" alt="ScreenShot" style="max-width:50%;">
 
 Add comments to article:
-<img src="screenshots/comment_screen.png" alt="ScreenShot" style="max-width:70%;">
+<img src="screenshots/comment_screen.png" alt="ScreenShot" style="max-width:50%;">
 
 Add banners:
-<img src="screenshots/banner_screen.png" alt="ScreenShot" style="max-width:70%;">
+<img src="screenshots/banner_screen.png" alt="ScreenShot" style="max-width:50%;">
 
 # File structure
 <ul>
@@ -40,7 +40,7 @@ Add banners:
     <li>Download and install MongoDB</li>
     <li>Run the MongoDB client: <code>mongo</code></li>
     <li>Add an empty array to be able to add votes and comments in articles</li>
-    <img src="screenshots/mongo_screen.png" alt="ScreenShot" style="max-width:70%;">
+    <img src="screenshots/mongo_screen.png" alt="ScreenShot" style="max-width:50%;">
     <li>Run MongoDB in a separate terminal: <code>mongod</code></li>
 </ul>
 

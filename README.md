@@ -5,13 +5,13 @@ My first project in React. A small blog webpage. It's work in progress.
 
 <div style="max-width: 400px !important;"><img src="screenshots/home_screen.png" alt="ScreenShot"></div>
 
-# You can read articles and upvote them:
+## You can read articles and upvote them:
 <div><img src="screenshots/article_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
-# Add comments to article:
+## Add comments to article:
 <div><img src="screenshots/comment_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
-# Add banners:
+## Add banners:
 <div><img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 <div><img src="screenshots/banner.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 

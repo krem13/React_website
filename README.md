@@ -25,7 +25,8 @@ My first project in React. A small blog webpage. It's work in progress.
 <ul>
     <li>Download or clone the project to your local machine</li>
     <li>Change to the folder my-react-website</li>
-    <li>To add node_modules run: <code>npm install</code></li>
+    <li>To add node_modules run: </li>
+    <pre>npm install</pre>
     <li>Install any other dependancies: react-scripts, react-router-dom, axios, ...</li>
     <li>To run the frontend use: <code>npm start</code></li>
 </ul>

@@ -12,7 +12,7 @@ My first project in React. A small blog webpage. It's work in progress.
 <div><img src="screenshots/comment_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
 ## Add banners:
-<div><img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
+<div><img src="screenshots/banner_screen.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div><br /><br />
 <div><img src="screenshots/banner.png" alt="ScreenShot" style="width:50%; max-width: 350px;"></div>
 
 # File structure
